@@ -1,6 +1,6 @@
 # Argent Bank
 
-Application bancaire complète développée avec React/Redux pour le frontend et Node.js/Express pour le backend, offrant une gestion de profil utilisateur sécurisée et des fonctionnalités de transaction via des appels API.
+Application bancaire en React et Redux permettant la connexion et la modification du profil via une API authentifiée par JWT.
 
 ## 🚀 Comment démarrer
 
