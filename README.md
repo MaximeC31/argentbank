@@ -1,4 +1,4 @@
-# ArgentBank - Application Bancaire Full-Stack
+# Argent Bank
 
 Application bancaire complète développée avec React/Redux pour le frontend et Node.js/Express pour le backend, offrant une gestion de profil utilisateur sécurisée et des fonctionnalités de transaction via des appels API.
 
@@ -15,8 +15,8 @@ Application bancaire complète développée avec React/Redux pour le frontend et
 1. **Cloner le dépôt**
 
     ```bash
-    git clone https://github.com/MaximeC31/Argentbank-redux.git
-    cd Argentbank-redux
+    git clone https://github.com/MaximeC31/argentbank.git
+    cd argentbank
     ```
 
 2. **Installer les dépendances du frontend**
@@ -49,7 +49,7 @@ Dans un nouveau terminal, à la racine du projet :
 npm run dev
 ```
 
-L'application frontend sera disponible sur `http://localhost:5173/Argentbank-redux/`
+L'application frontend sera disponible sur `http://localhost:5173/argentbank/`
 
 ## Identifiants
 

@@ -187,7 +187,7 @@ button:focus-visible {
 
 /* Home Component */
 .home__hero {
-  background-image: url("/Argentbank-redux/bank-tree.jpeg");
+  background-image: url("/argentbank/bank-tree.jpeg");
   background-position: 0 -50px;
   background-size: cover;
   background-repeat: no-repeat;
